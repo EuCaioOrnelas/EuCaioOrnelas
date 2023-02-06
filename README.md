@@ -11,12 +11,13 @@
 
 <div align="center">
 <a href="https://instagram.com/caioornelasoficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white"</a>
+
 <a href="https://www.linkedin.com/in/caio-alexandre-de-souza-ornelas-348658263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
  
-### Habilidades principais:
+
+### Habilidades principais no Front-end:
 <div style="display: inline-block">
-  <br />
   <img
     align="center"
     alt="html5"
@@ -34,15 +35,37 @@
   />
   <img
     align="center"
+    alt="TypeScript"
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+  />
+  <img
+    align="center"
+    alt="React"
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  />
+  
+</div>
+<br /><br />
+
+### Habilidades principais no Back-end:
+<div style="display: inline-block">
+<img
+    align="center"
     alt="nodejs"
     src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
   />
-</div>
-
-
-###  Estudando neste momento:
-![ React.js ](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)  
-![ Node.JS ](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)  
+  <img
+    align="center"
+    alt="Json"
+    src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=blue"
+  />
+    <img
+    align="center"
+    alt="MongoDB"
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+  />
+  </div>
+<br /><br />
 
 <div align="center">
 <br><p align="center"><b>Contagem de visitantes</b></p>  
