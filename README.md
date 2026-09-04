@@ -9,11 +9,11 @@ Building **Wiize** — software, AI and infrastructure for modern businesses.
 <br>
 
 <a href="https://github.com/EuCaioOrnelas">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/caioornelasoficial">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -40,7 +40,9 @@ Currently building:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,vite,tailwind,nodejs,python,postgres,supabase,mongodb,docker,linux,nginx&perline=7" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,vite,tailwind,nodejs,python,postgres,supabase,mongodb,docker,linux,nginx&perline=7" />
+</a>
 
 </div>
 
@@ -48,25 +50,24 @@ Currently building:
 
 ---
 
-## BUILDING SYSTEMS
+## ENGINEERING
 
-```text
-Product
-   │
-   ├── AI
-   │
-   ├── Automation
-   │
-   ├── CRM
-   │
-   ├── APIs
-   │
-   └── Infrastructure
-```
+I work across the stack — from interfaces and product architecture to APIs, automation and infrastructure.
 
-My focus is not only writing code.
+**Frontend**
+React · TypeScript · JavaScript · Vite · Tailwind
 
-It's designing **products, systems and infrastructure that work together.**
+**Backend**
+Node.js · Python · PostgreSQL · Supabase · REST APIs
+
+**Infrastructure**
+Docker · Linux · Nginx · VPS · Edge Functions
+
+**Systems**
+JWT · HMAC · Webhooks · API Architecture · Integrations
+
+**AI**
+AI Agents · Automation · Data Intelligence
 
 <br>
 
@@ -76,15 +77,23 @@ It's designing **products, systems and infrastructure that work together.**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EuCaioOrnelas&bg_color=0d1117&color=0888d3&line=0888d3&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=EuCaioOrnelas&bg_color=0d1117&color=0888d3&line=0888d3&point=ffffff&area=true&hide_border=true"
+width="100%"
+/>
 
 </div>
 
 <br>
 
+### CONTRIBUTIONS
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img
+src="https://raw.githubusercontent.com/EuCaioOrnelas/EuCaioOrnelas/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+/>
 
 </div>
 
@@ -96,9 +105,15 @@ It's designing **products, systems and infrastructure that work together.**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EuCaioOrnelas&show_icons=true&count_private=true&hide_border=true&title_color=0888d3&icon_color=0888d3&text_color=c9d1d9&bg_color=0d1117" height="170"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=EuCaioOrnelas&show_icons=true&count_private=true&hide_border=true&title_color=0888d3&icon_color=0888d3&text_color=c9d1d9&bg_color=0d1117"
+height="170"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuCaioOrnelas&layout=compact&hide_border=true&title_color=0888d3&text_color=c9d1d9&bg_color=0d1117" height="170"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuCaioOrnelas&layout=compact&hide_border=true&title_color=0888d3&text_color=c9d1d9&bg_color=0d1117"
+height="170"
+/>
 
 </div>
 
