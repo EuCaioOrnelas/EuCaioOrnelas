@@ -8,18 +8,6 @@
 
 <br>
 
-<a href="https://github.com/EuCaioOrnelas">
-  <img src="https://img.shields.io/github/followers/EuCaioOrnelas?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0888d3" />
-</a>
-
-<a href="https://github.com/EuCaioOrnelas?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-0888d3?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/caio-alexandre-de-souza-ornelas-348658263/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 </div>
 
 ---
@@ -96,67 +84,11 @@ Wiize started as a B2B software focused on commercial intelligence and prospecti
 
 ---
 
-## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
-### 🧠 Wiize
-
-B2B software ecosystem focused on commercial intelligence, prospecting, CRM, automation and AI.
-
-**Building →**
-
-</td>
-
-<td width="50%">
-
-### 🤖 Wian AI
-
-AI assistant and intelligence layer designed to interact with business data and systems through secure APIs.
-
-**Building →**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ⚙️ WiizeFlow
-
-Business management and workflow platform focused on CRM, tasks, pages, dashboards and operational processes.
-
-**Building →**
-
-</td>
-
-<td width="50%">
-
-### 🔌 Integration Layer
-
-Secure communication architecture connecting products through authenticated APIs instead of direct database access.
-
-**Architecture →**
-
-</td>
-
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuCaioOrnelas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0888d3&icon_color=0888d3&text_color=c9d1d9&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuCaioOrnelas&layout=compact&hide_border=true&title_color=0888d3&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
@@ -168,45 +100,19 @@ Secure communication architecture connecting products through authenticated APIs
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EuCaioOrnelas&bg_color=0d1117&color=0888d3&line=0888d3&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
----
+<br>
 
-## 🧩 Engineering interests
+<div align="center">
 
-```yaml
-focus:
-  - SaaS Architecture
-  - API Design
-  - AI Systems
-  - Business Automation
-  - CRM & Revenue Systems
-  - Distributed Integrations
-  - Data & Infrastructure
-  - Developer Experience
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-currently_building:
-  company: Wiize
-  products:
-    - Wiize
-    - Wian AI
-    - WiizeFlow
-    - Integration Layer
+</div>
 
-philosophy:
-  - Build simple interfaces
-  - Design robust systems
-  - Automate repetitive work
-  - Turn business problems into software
-```
+<br>
 
 ---
 
