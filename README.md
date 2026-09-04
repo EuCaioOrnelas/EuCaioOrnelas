@@ -1,136 +1,85 @@
 <div align="center">
-
-# CAIO ORNELAS
-
-### Founder & Software Engineer
-
-Building **Wiize** — software, AI and infrastructure for modern businesses.
-
+Olá, eu sou Caio Ornelas
+Founder & Software Engineer
+Construindo a Wiize — software, IA e infraestrutura para negócios.
 <br>
-
-<a href="https://github.com/EuCaioOrnelas">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/caioornelasoficial">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-
+`PRODUCT` · `SOFTWARE` · `AI` · `INFRASTRUCTURE`
 </div>
-
-<br>
-
 ---
-
-## WIIZE
-
-**Software built for intelligent business operations.**
-
-Wiize is a B2B software company building products around **AI, automation, commercial intelligence and infrastructure**.
-
-Currently building:
-
-`Wiize` · `Wian AI` · `WiizeFlow` · `Integration Layer`
-
-<br>
-
+WIIZE
+Software construído para operações empresariais inteligentes.
+A Wiize é um ecossistema B2B que combina inteligência comercial, IA, automação, CRM, APIs e integrações.
+```text
+                    WIIZE
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+     SOFTWARE         AI          SYSTEMS
+        │             │             │
+       CRM          AGENTS         APIs
+    AUTOMATION       DATA      INTEGRATIONS
+        │             │             │
+        └─────────────┼─────────────┘
+                      │
+                   BUSINESS
+```
+Atualmente construindo
+Wiize — Prospecting · CRM · Commercial Intelligence · Automation
+Wian AI — AI Agents · Business Intelligence · Data
+WiizeFlow — Workflows · Operations · Productivity
+Integration Layer — APIs · Authentication · Integrations · Infrastructure
 ---
-
-## STACK
-
+STACK
 <div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,vite,tailwind,nodejs,python,postgres,supabase,mongodb,docker,linux,nginx&perline=7" />
-</a>
-
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,vite,tailwind,nodejs,python,postgres,supabase,mongodb,docker,linux,nginx,git,github,postman&perline=8" />
 </div>
-
 <br>
-
----
-
-## ENGINEERING
-
-I work across the stack — from interfaces and product architecture to APIs, automation and infrastructure.
-
-**Frontend**
+<div align="center">
+Frontend  
 React · TypeScript · JavaScript · Vite · Tailwind
-
-**Backend**
-Node.js · Python · PostgreSQL · Supabase · REST APIs
-
-**Infrastructure**
+Backend  
+Node.js · Python · PostgreSQL · Supabase · MongoDB
+Infrastructure  
 Docker · Linux · Nginx · VPS · Edge Functions
-
-**Systems**
-JWT · HMAC · Webhooks · API Architecture · Integrations
-
-**AI**
-AI Agents · Automation · Data Intelligence
-
-<br>
-
----
-
-## ACTIVITY
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=EuCaioOrnelas&bg_color=0d1117&color=0888d3&line=0888d3&point=ffffff&area=true&hide_border=true"
-width="100%"
-/>
-
+Systems  
+REST APIs · JWT · HMAC · Webhooks · Integrations · Automation
+AI  
+AI Agents · Data Intelligence · Business Automation
 </div>
-
-<br>
-
-### CONTRIBUTIONS
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/EuCaioOrnelas/EuCaioOrnelas/output/github-contribution-grid-snake-dark.svg"
-width="100%"
-/>
-
-</div>
-
-<br>
-
 ---
-
-## GITHUB
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=EuCaioOrnelas&show_icons=true&count_private=true&hide_border=true&title_color=0888d3&icon_color=0888d3&text_color=c9d1d9&bg_color=0d1117"
-height="170"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuCaioOrnelas&layout=compact&hide_border=true&title_color=0888d3&text_color=c9d1d9&bg_color=0d1117"
-height="170"
-/>
-
-</div>
-
-<br>
-
+BUILDING
+```text
+idea
+  ↓
+architecture
+  ↓
+code
+  ↓
+product
+  ↓
+users
+  ↓
+scale
+```
+Meu foco é construir sistemas completos, não apenas funcionalidades isoladas.
+Do produto e interface até APIs, dados, integrações, automações e infraestrutura.
 ---
-
+ACTIVITY
 <div align="center">
-
-### CURRENTLY BUILDING
-
-**WIIZE**
-
+<!-- A GitHub Action deste repositório gera a animação abaixo automaticamente. -->
+<img src="https://raw.githubusercontent.com/EuCaioOrnelas/EuCaioOrnelas/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+</div>
+---
+GITHUB
+<div align="center">
+![GitHub followers](https://img.shields.io/github/followers/EuCaioOrnelas?style=flat-square&label=followers&color=0888d3&labelColor=0d1117)
+![GitHub stars](https://img.shields.io/github/stars/EuCaioOrnelas?style=flat-square&label=stars&color=0888d3&labelColor=0d1117)
+</div>
+---
+<div align="center">
+CURRENTLY BUILDING
+WIIZE
 `Software` · `AI` · `APIs` · `Infrastructure`
-
 <br>
-
-<sub>Building systems, not just features.</sub>
-
+Building systems, not just features.
 </div>
