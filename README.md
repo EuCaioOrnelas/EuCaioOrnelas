@@ -2,66 +2,91 @@
 
 # CAIO ORNELAS
 
-**Founder & Software Engineer**
+### Founder & Software Engineer
 
 Building **Wiize** — software, AI and infrastructure for modern businesses.
 
 <br>
 
-[GitHub](https://github.com/EuCaioOrnelas) · [Instagram](https://instagram.com/caioornelasoficial)
+<a href="https://github.com/EuCaioOrnelas">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/caioornelasoficial">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
----
-
 <br>
+
+---
 
 ## WIIZE
 
-> **Building the infrastructure behind intelligent business software.**
+**Software built for intelligent business operations.**
 
-Wiize is a B2B software company focused on building products that combine **AI, automation, data and business operations**.
+Wiize is a B2B software company building products around **AI, automation, commercial intelligence and infrastructure**.
 
-What started with commercial intelligence and prospecting is evolving into a broader software ecosystem — with its own products, integrations, APIs and infrastructure.
+Currently building:
 
-<br>
-
-### Building
-
-**Wiize**
-Commercial intelligence · Prospecting · CRM · Automation
-
-**Wian AI**
-AI · Business intelligence · Intelligent agents
-
-**WiizeFlow**
-CRM · Workflows · Operations
-
-**Integration Layer**
-APIs · Authentication · Integrations · Infrastructure
+`Wiize` · `Wian AI` · `WiizeFlow` · `Integration Layer`
 
 <br>
 
 ---
 
-## ENGINEERING
+## STACK
 
-I build across the stack, from product interfaces to the systems behind them.
+<div align="center">
 
-**Frontend**
-React · TypeScript · JavaScript · Tailwind
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,vite,tailwind,nodejs,python,postgres,supabase,mongodb,docker,linux,nginx&perline=7" />
 
-**Backend**
-Node.js · PostgreSQL · Supabase · REST APIs
+</div>
 
-**Infrastructure**
-Docker · Linux · Nginx · VPS · Edge Functions
+<br>
 
-**Systems**
-JWT · HMAC · Webhooks · API Architecture · Integrations
+---
 
-**AI**
-AI Agents · Automation · Data Intelligence
+## BUILDING SYSTEMS
+
+```text
+Product
+   │
+   ├── AI
+   │
+   ├── Automation
+   │
+   ├── CRM
+   │
+   ├── APIs
+   │
+   └── Infrastructure
+```
+
+My focus is not only writing code.
+
+It's designing **products, systems and infrastructure that work together.**
+
+<br>
+
+---
+
+## ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EuCaioOrnelas&bg_color=0d1117&color=0888d3&line=0888d3&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
 
 <br>
 
@@ -71,7 +96,7 @@ AI Agents · Automation · Data Intelligence
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EuCaioOrnelas&show_icons=true&hide_border=true&title_color=0888d3&icon_color=0888d3&text_color=c9d1d9&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EuCaioOrnelas&show_icons=true&count_private=true&hide_border=true&title_color=0888d3&icon_color=0888d3&text_color=c9d1d9&bg_color=0d1117" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuCaioOrnelas&layout=compact&hide_border=true&title_color=0888d3&text_color=c9d1d9&bg_color=0d1117" height="170"/>
 
@@ -79,18 +104,18 @@ AI Agents · Automation · Data Intelligence
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EuCaioOrnelas&bg_color=0d1117&color=0888d3&line=0888d3&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-<br>
-
 ---
 
 <div align="center">
 
-**SOFTWARE · AI · INFRASTRUCTURE · BUSINESS**
+### CURRENTLY BUILDING
 
-<br><br>
+**WIIZE**
 
-Building things that matter.
+`Software` · `AI` · `APIs` · `Infrastructure`
+
+<br>
+
+<sub>Building systems, not just features.</sub>
 
 </div>
