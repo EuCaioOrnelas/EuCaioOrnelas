@@ -4,7 +4,7 @@
 
 ### Founder • Software Engineer • Product Builder
 
-**Construo sistemas, produtos SaaS e infraestrutura para transformar operações complexas em software.**
+**Construo sistemas, produtos SaaS e infraestrutura para transformar operações complexas em operações eficientes.**
 
 <br>
 
